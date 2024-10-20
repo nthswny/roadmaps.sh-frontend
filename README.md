@@ -1,5 +1,5 @@
 <h1>Front-end Project from Roadmaps.sh</h1>
-<p>This repository contains front-end projects built following the roadmap.sh front-end developer path.</p>
+<p>This repository contains front-end projects built following the <a href="https://roadmap.sh/">roadmap.sh</a> front-end developer path.</p>
 <h2>Project List</h2>
-<p>Single-Page CV <a href="https://roadmap.sh/projects/single-page-cv"></p>
+<p><a href="https://roadmap.sh/projects/single-page-cv">Single-Page CV</a></p>
   

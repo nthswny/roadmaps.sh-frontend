@@ -1,6 +1,6 @@
 <h1>Basic HTML Website</h1>
 <h3>Goal</h3>
-<p>Create a basic website using HTML. Learn how to create multiple pages in a website. Focus on using correct HTML tags and structure.</p>
+<p>Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.</p>
 <h3>Requirements</h3>
 
 <ul>

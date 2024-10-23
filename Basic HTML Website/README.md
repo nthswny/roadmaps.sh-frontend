@@ -8,4 +8,5 @@
   <li>Project</li>
   <li>Article</li>
   <li>Contact</li>
+  <p>Navigation bar with links to each page, at the top of each page</p>
 </ul>

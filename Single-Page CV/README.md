@@ -4,18 +4,18 @@
 <h3>Requirements</h3>
 <ul>
   <li>
-    required to create a single-page CV (Curriculum Vitae) using only HTML
+    Required to create a single-page CV (Curriculum Vitae) using only HTML
   </li>
   <li>
-    Semantic HTML: Use appropriate HTML tags to structure your CV.
+    <b>Semantic HTML:</b> Use appropriate HTML tags to structure your CV.
     </li>
   <li>
-    SEO Meta Tags: Include essential meta tags for SEO.
+    <b>SEO Meta Tags:</b> Include essential meta tags for SEO.
   </li>
-<li>
-  Open Graph (OG) Tags: Add OG tags for better social media sharing.
-</li>
-<li>
-  Favicon: Add a favicon for your CV page.
-</li>
+  <li>
+    <b>Open Graph (OG) Tags:</b> Add OG tags for better social media sharing.
+  </li>
+  <li>
+    <b>Favicon:</b> Add a favicon for your CV page.
+  </li>
 </ul>

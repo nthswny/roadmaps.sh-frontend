@@ -4,9 +4,6 @@
 <h3>Requirements</h3>
 <ul>
   <h5>Pages:</h5>
-  <li>Home</li>
-  <li>Project</li>
-  <li>Article</li>
-  <li>Contact</li>
+  <p>Home, Project, Article, Contact</p>
   <p>Navigation bar with links to each page, at the top of each page</p>
 </ul>

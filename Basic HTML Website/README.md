@@ -5,10 +5,10 @@
 
 <ul>
   <li>
-    <h5>Pages: Home, Project, Article, Contact</h5>
+    <b>Pages: Home, Project, Article, Contact</b>
   </li>
   <li>
-    <h5>Navigation bar with links to each page, at the top of each page</h5>
+    <b>Navigation bar with links to each page, at the top of each page</b>
   </li>
 </ul>
 
